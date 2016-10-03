@@ -34,7 +34,7 @@ redis-server --notify-keyspace-events Ex
 npm install
 ```
 
-3. Configure app in _/config.js_
+3. Configure app in */config.js*
 
 4. Run server
 
